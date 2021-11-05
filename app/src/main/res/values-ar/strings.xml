@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionUtils</string>
+    <string name="dialog_default_title">هذه رسالة!</string>
+    <string name="dialog_cancel">إلفاء</string>
+    <string name="dialog_ok">موافق</string>
+
+</resources>
